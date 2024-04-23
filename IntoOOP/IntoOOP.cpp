@@ -17,6 +17,10 @@ public: // akses modifier
     }
 
 };
+
+class matakuliah {
+
+};
 int main()
 {
     
