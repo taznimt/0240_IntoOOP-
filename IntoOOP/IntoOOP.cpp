@@ -19,7 +19,8 @@ public: // akses modifier
 };
 
 class matakuliah {
-
+private:
+    string kodemk;
 };
 int main()
 {
