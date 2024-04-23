@@ -15,6 +15,7 @@ public: // akses modifier
         cout << "umur: " << umur << endl;
         cout << "jurusan: " << jurusan << endl;
     }
+
 };
 int main()
 {
